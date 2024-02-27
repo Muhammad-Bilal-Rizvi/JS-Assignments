@@ -109,3 +109,19 @@
 // displayCounting(startNum, endNum);
 
 
+
+//9.Write a nested function that computes hypotenuse of a right angle triangle. 
+// Hypotenuse2 = Base2 + Perpendicular2
+// Take base and perpendicular as inputs.
+// Outer function : calculateHypotenuse()
+// Inner function: calculateSquare()
+
+
+// function square(val){
+//     return val * val;
+// }
+// function hypo(val1, val2){
+//     return square(val1)+square(val2)
+// }
+// console.log(hypo(2,2))
+
