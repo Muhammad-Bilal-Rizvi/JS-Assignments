@@ -38,3 +38,35 @@
 // let qualifications = ['SSC', 'HSC', 'BCS', 'BS', 'BCOM', 'MS', 'M.Phil', 'PhD'];
 // document.querySelector('qualifications');
 
+
+// 9. Declare and initialize an empty array to store top movies of 
+// 2015. Add movies one by one in an array. Display the elements 
+// & length of array in your browser. (Use array’s length method)
+
+// let moviesArray = [];
+// moviesArray[0] = 'Avengers: Age of Ultron';
+// moviesArray[1] = 'Spectre';
+// moviesArray[2] = 'Jurassic World';
+// moviesArray[3] = 'Inside Out';
+
+// console.log('Top movies of 2015');
+// console.log(moviesArray);
+// console.log(moviesArray.length);
+
+//10. Declare and Initialize an array with your favorite cars. Show 
+// a. First index of the array
+// b. Car at first index of the array
+// c. Last index of the array
+// d. Car at last index of the array
+
+// let favoriteCars = ["Audi", "Volvo", "Ford", "Lamborghini"];
+
+// console.log("First index of the array: " + 0);
+
+// console.log("Car at the first index of the array: " + favoriteCars[0]);
+
+// console.log("Last index of the array: " + (favoriteCars.length - 1));
+
+// console.log("Car at the last index of the array: " + favoriteCars[favoriteCars.length - 1]);
+
+
