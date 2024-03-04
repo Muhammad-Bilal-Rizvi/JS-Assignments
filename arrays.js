@@ -70,3 +70,15 @@
 // console.log("Car at the last index of the array: " + favoriteCars[favoriteCars.length - 1]);
 
 
+//11. Write a program to store 3 student names in an array. Take
+// another array to store score of these three students. Assume
+// that total marks are 500 for each student, display the scores &
+// percentages of students like:
+
+let studentName = ['Michael', 'John', 'Tony'];
+let studentMarks = [320, 230, 480];
+
+for (let i = 0; i < studentName.length; i++) {
+    // console.log(`Score of Michael is 320. Percentage: 64%`);
+    console.log(`Score of ${studentName[i]} is ${studentMarks[i]}. Percentage: ${studentMarks[i]/500 * 100}%`);
+}
