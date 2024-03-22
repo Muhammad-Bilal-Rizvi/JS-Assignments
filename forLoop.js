@@ -44,3 +44,8 @@
 // for (let i = 0; i < fruits.length; i++) {
 //     console.log(`Element at index ${i} is ${fruits[i]}`)
 // }
+
+
+// 6. Write a program to initialize an array of N items by using 
+// prompt. Where N is number of items as entered by the user.
+
